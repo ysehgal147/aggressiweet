@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView",
+        "state": {
+          "branch": null,
+          "revision": "c6610f567975469aaa2a8d6eb225c7162e6d0736",
+          "version": "1.5.3"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/mattdonnelly/Swifter.git",
+        "state": {
+          "branch": null,
+          "revision": "480c30bdc59cba8be16d70a32207fe8b31fe1876",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "SunburstDiagram",
+        "repositoryURL": "https://github.com/lludo/SwiftSunburstDiagram.git",
+        "state": {
+          "branch": null,
+          "revision": "23ac804b97642ca288d5cdd0c0cc339e2d9353ec",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
