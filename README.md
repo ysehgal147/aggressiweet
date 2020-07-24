@@ -36,8 +36,7 @@ List of features ready and TODOs for future development
 Completed
 
 ## References
-Facebook-Post-Aggression-Identification
-[https://github.com/kraiyani/Facebook-Post-Aggression-Identification](Facebook-Post-Aggression-Identification)
+[Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
 
 ## Contact
 Created by Yogesh Sehgal, Email: [yogeshsehgal99@rediffmail.com](yogeshsehgal99@rediffmail.com) - feel free to contact me!
