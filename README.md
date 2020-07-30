@@ -16,7 +16,7 @@ The App is capable of fetching 100 recent tweets of the given query, and perform
 program is trained in Hinglish language.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/ysehgal147/aggressiweet/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-24%20at%2016.13.18.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/aggressiweet/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-24%20at%2016.16.04.png" width="300">
+<img src="https://raw.githubusercontent.com/ysehgal147/aggressiweet/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-30%20at%2011.34.07.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/aggressiweet/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-30%20at%2011.36.16.png" width="300">
 
 
 ## Technologies
