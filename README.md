@@ -28,7 +28,7 @@ program is trained in Hinglish language.
 Download or Clone the Code Files, and Run using Xcode. Do not forget to get API Key from Twitter Developer Account.
 
 ## Features
-List of features ready and TODOs for future development
+List of features
 * Hinglish Language Hate Speech Analysis
 * Top 100 Tweet Fetching Capabilities using Twitter API
 * Custom Text Analyser
