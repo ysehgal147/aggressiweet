@@ -12,7 +12,7 @@ import SwiftyJSON
 import CoreML
 import Combine
 
-let swifter = Swifter(consumerKey: "iO6FYxhZg2GSyP1QhVdjwb5iH", consumerSecret: "ieSn5cTEKVvlmxdqB5FTDXLUxg6VNmwKxLAogRdTQ0LIXCsoF9")
+let swifter = Swifter(consumerKey: , consumerSecret: )
 let tweetcount = 100
 let language = "en"
 var tweets = [TweetAnalyserInput]()
