@@ -31,6 +31,7 @@ Download or Clone the Code Files, and Run using Xcode. Do not forget to get API 
 List of features ready and TODOs for future development
 * Hinglish Language Hate Speech Analysis
 * Top 100 Tweet Fetching Capabilities using Twitter API
+* Custom Text Analyser
 
 ## Status
 Completed
